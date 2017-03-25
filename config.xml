@@ -4,7 +4,7 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>GUIM</name>
+    <name>Business Card</name>
     <description>APP2</description>
     <author href="http//www.google.com" email="janekk@gmail.com">
 		DF
