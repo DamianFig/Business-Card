@@ -4,10 +4,10 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>App with jQM</name>
-    <description>My first mobile app with jQuery Mobile user interface</description>
-    <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
-		John Brown
+    <name>GUIM</name>
+    <description>APP2</description>
+    <author href="http//www.google.com" email="janekk@gmail.com">
+		DF
 	</author>
 	<platform name="android" />
 	
